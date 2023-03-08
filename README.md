@@ -2,6 +2,7 @@
 Automated tests for jira "Create issue" functionality
 
 For the test to work correctly, you have to:
+	
 	I. Install modules from "requirements.txt" file using "pip" (package installer for python)
 	   in your CLI (Command Line Interface, i.e.: command prompt - Windows / terminal - Linux)		
 	   To install it, you have to:
